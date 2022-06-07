@@ -1,16 +1,17 @@
 {
-   "token": "OTc3OTE4MDI3NjY2NDMyMDEw.GtZ6lu.OLjPWwtV_2_rNo7-ttOApUYuUryvtV0-e0_oXM",
-   "prefix": "t!",
+   "token": "OTc3OTE4MDI3NjY2NDMyMDEw.G_z09R.sKkD4OMBjm9TBOeGjogV9I1y8WP-BUbwyDGclo",
+   "prefix": "//",
    "ownerIDS": [
       "881119584156000326",
       "762921788589735936"
    ],
-   "fnbr": "GET from: https://fnbr.co",
-   "fortnitetracker": "GET from: https://fortnitetracker.com",
-   "memer_api": "GET from: https://discord.gg/Mc2FudJkgP",
+   "fnbr": "e0efc8dc-5d7b-4043-b3a2-f88b3828f893",
+   "fortnitetracker": "dfbe0141-aa0a-45ae-bbc7-2d7e212d3fcc",
+   "memer_api": "JoizT7Oss2t",
+
    "status": {
       "text": "{prefix}help | on {guildcount} Servers, with {membercount} Members | Played: {songsplayed} Songs",
-      "text2": "By: discord.gg/ac_dev",
+      "text2": "By: discord.io/ag_dev",
       "type": "PLAYING",
       "url": "https://twitch.tv/#"
    },
@@ -24,8 +25,8 @@
       ]
    },
    "spotify": {
-      "clientSecret": "GET from: https://developers.spotify.com",
-      "clientID": "GET from: https://developers.spotify.com"
+      "clientSecret": "45e5a5c9eb14418a8c4aa39d1ca61edd",
+      "clientID": "bcc3541dff49441388bfe5e7ab0609c1"
    },
    "settings": {
       "COMMENT": "time_delay 0 === insta leave",
